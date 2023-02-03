@@ -1,0 +1,36 @@
+body {
+    background-size: cover;
+    background: url("https://img.freepik.com/vetores-gratis/feliz-dia-dos-namorados-coracao-brilhante-fundo-com-espaco-de-texto_1017-23191.jpg?w=740&t=st=1675455258~exp=1675455858~hmac=baf2164a7505e37e067e546644575574cf18fabf07676319bda01db4c31741e4");
+    background-position-x: left;
+    backface-visibility: visible;
+    background-size: 80%;
+    color: #fff;
+
+
+}
+
+@media all and (orientation: landscape) {
+
+
+    .text {
+        text-align: left;
+        font-family: 'Love Ya Like A Sister', cursive;
+        font-size: 2rem;
+        margin-top: 5rem;
+        margin-bottom: 5rem;
+        margin-left: 5rem;
+        margin-right: 5rem;
+        color: #fff;
+    }
+
+    .calculadora {
+        text-align: left;
+        font-family: 'Love Ya Like A Sister', cursive;
+        font-size: 2rem;
+        margin-top: 5rem;
+        margin-bottom: 5rem;
+        margin-left: 5rem;
+        margin-right: 5rem;
+        color: #fff;
+    }
+}
